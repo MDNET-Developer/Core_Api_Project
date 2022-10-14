@@ -1,0 +1,17 @@
+D:\MyProjects\NEW\CoreApiDemo\DataAccsess\bin\Debug\net5.0\DataAccsess.deps.json
+D:\MyProjects\NEW\CoreApiDemo\DataAccsess\bin\Debug\net5.0\DataAccsess.dll
+D:\MyProjects\NEW\CoreApiDemo\DataAccsess\bin\Debug\net5.0\DataAccsess.pdb
+D:\MyProjects\NEW\CoreApiDemo\DataAccsess\obj\Debug\net5.0\DataAccsess.csproj.AssemblyReference.cache
+D:\MyProjects\NEW\CoreApiDemo\DataAccsess\obj\Debug\net5.0\DataAccsess.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\NEW\CoreApiDemo\DataAccsess\obj\Debug\net5.0\DataAccsess.AssemblyInfoInputs.cache
+D:\MyProjects\NEW\CoreApiDemo\DataAccsess\obj\Debug\net5.0\DataAccsess.AssemblyInfo.cs
+D:\MyProjects\NEW\CoreApiDemo\DataAccsess\obj\Debug\net5.0\DataAccsess.csproj.CoreCompileInputs.cache
+D:\MyProjects\NEW\CoreApiDemo\DataAccsess\obj\Debug\net5.0\DataAccsess.dll
+D:\MyProjects\NEW\CoreApiDemo\DataAccsess\obj\Debug\net5.0\refint\DataAccsess.dll
+D:\MyProjects\NEW\CoreApiDemo\DataAccsess\obj\Debug\net5.0\DataAccsess.pdb
+D:\MyProjects\NEW\CoreApiDemo\DataAccsess\obj\Debug\net5.0\ref\DataAccsess.dll
+D:\MyProjects\NEW\CoreApiDemo\DataAccsess\bin\Debug\net5.0\Core.dll
+D:\MyProjects\NEW\CoreApiDemo\DataAccsess\bin\Debug\net5.0\Entities.dll
+D:\MyProjects\NEW\CoreApiDemo\DataAccsess\bin\Debug\net5.0\Core.pdb
+D:\MyProjects\NEW\CoreApiDemo\DataAccsess\bin\Debug\net5.0\Entities.pdb
+D:\MyProjects\NEW\CoreApiDemo\DataAccsess\obj\Debug\net5.0\DataAccsess.csproj.CopyComplete

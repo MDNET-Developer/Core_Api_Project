@@ -1,0 +1,12 @@
+D:\MyProjects\NEW\CoreApiDemo\Business\bin\Debug\net5.0\Business.deps.json
+D:\MyProjects\NEW\CoreApiDemo\Business\bin\Debug\net5.0\Business.dll
+D:\MyProjects\NEW\CoreApiDemo\Business\bin\Debug\net5.0\Business.pdb
+D:\MyProjects\NEW\CoreApiDemo\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+D:\MyProjects\NEW\CoreApiDemo\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\NEW\CoreApiDemo\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+D:\MyProjects\NEW\CoreApiDemo\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+D:\MyProjects\NEW\CoreApiDemo\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+D:\MyProjects\NEW\CoreApiDemo\Business\obj\Debug\net5.0\Business.dll
+D:\MyProjects\NEW\CoreApiDemo\Business\obj\Debug\net5.0\refint\Business.dll
+D:\MyProjects\NEW\CoreApiDemo\Business\obj\Debug\net5.0\Business.pdb
+D:\MyProjects\NEW\CoreApiDemo\Business\obj\Debug\net5.0\ref\Business.dll
