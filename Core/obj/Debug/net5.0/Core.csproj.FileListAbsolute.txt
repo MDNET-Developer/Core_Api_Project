@@ -10,3 +10,6 @@ D:\MyProjects\NEW\CoreApiDemo\Core\obj\Debug\net5.0\Core.dll
 D:\MyProjects\NEW\CoreApiDemo\Core\obj\Debug\net5.0\refint\Core.dll
 D:\MyProjects\NEW\CoreApiDemo\Core\obj\Debug\net5.0\Core.pdb
 D:\MyProjects\NEW\CoreApiDemo\Core\obj\Debug\net5.0\ref\Core.dll
+D:\MyProjects\NEW\CoreApiDemo\Core\bin\Debug\net5.0\Core.runtimeconfig.json
+D:\MyProjects\NEW\CoreApiDemo\Core\bin\Debug\net5.0\Core.runtimeconfig.dev.json
+D:\MyProjects\NEW\CoreApiDemo\Core\obj\Debug\net5.0\Core.genruntimeconfig.cache

@@ -17,3 +17,6 @@ D:\MyProjects\NEW\CoreApiDemo\Business\bin\Debug\net5.0\DataAccsess.pdb
 D:\MyProjects\NEW\CoreApiDemo\Business\bin\Debug\net5.0\Entities.pdb
 D:\MyProjects\NEW\CoreApiDemo\Business\bin\Debug\net5.0\Core.pdb
 D:\MyProjects\NEW\CoreApiDemo\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+D:\MyProjects\NEW\CoreApiDemo\Business\bin\Debug\net5.0\Business.runtimeconfig.json
+D:\MyProjects\NEW\CoreApiDemo\Business\bin\Debug\net5.0\Business.runtimeconfig.dev.json
+D:\MyProjects\NEW\CoreApiDemo\Business\obj\Debug\net5.0\Business.genruntimeconfig.cache

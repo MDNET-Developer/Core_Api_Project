@@ -1,4 +1,6 @@
-﻿using Entities.Concrete;
+﻿using Core.Utilities.Abstract;
+using Core.Utilities.DataAbstract;
+using Entities.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,12 +11,12 @@ namespace Business.Abstract
 {
     public interface IProductService
     {
-        Product GetById(int id);
-        List<Product> GetList();
-        List<Product> GetListbyCategoryId(int categoryId);
-        void Add(Product product);
-        void Update(Product product);
-        void Delete(Product product);
+        IDataResult<Product> GetById(int id);
+        IDataResult<List<Product>> GetList();
+        IDataResult<List<Product>> GetListbyCategoryId(int categoryId);
+        IResult Add(Product product);
+        IResult Update(Product product);
+        IResult Delete(Product product);
 
     }
 }

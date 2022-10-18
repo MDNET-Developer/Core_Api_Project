@@ -11,5 +11,9 @@ namespace Core.Utilities.Class
         public SuccessResult(bool succsess, string message) : base(true, message)
         {
         }
+
+        public SuccessResult(bool succsess) : base(true)
+        {
+        }
     }
 }

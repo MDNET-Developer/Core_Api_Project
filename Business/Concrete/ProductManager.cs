@@ -1,4 +1,9 @@
 ﻿using Business.Abstract;
+using Core.Utilities.Abstract;
+using Core.Utilities.Class;
+using Core.Utilities.DataAbstract;
+using Core.Utilities.DataClass;
+using Core.Utilities.Messages.Product;
 using DataAccsess.Abstract;
 using Entities.Concrete;
 using System;
@@ -9,37 +14,40 @@ using System.Threading.Tasks;
 
 namespace Business.Concrete
 {
-    internal class ProductManager : IProductService
+    public class ProductManager : IProductService
     {
         private IProductDal _productDal;
-        public void Add(Product product)
+        public IResult Add(Product product)
         {
             _productDal.Add(product);
+            return new SuccessResult(message: ProductMessages.AddedProduct, succsess: true);
         }
 
-        public void Delete(Product product)
+        public IResult Delete(Product product)
         {
             _productDal.Delete(product);
+            return new SuccessResult(message: ProductMessages.DeletedProduct, succsess: true);
         }
 
-        public Product GetById(int id)
+        public IDataResult<Product> GetById(int id)
         {
-          return  _productDal.Get(x=>x.ProductId==id);
+          return new SuccessDataResult<Product>(_productDal.Get(x=>x.ProductId==id));
         }
 
-        public List<Product> GetList()
+        public IDataResult<List<Product>> GetList()
         {
-            return _productDal.Getlist().ToList();
+            return new SuccessDataResult<List<Product>>(_productDal.Getlist().ToList());
         }
 
-        public List<Product> GetListbyCategoryId(int categoryId)
+        public IDataResult<List<Product>>GetListbyCategoryId(int categoryId)
         {
-            return _productDal.Getlist(x=>x.CategoryId==categoryId).ToList();
+            return new SuccessDataResult<List<Product>>(_productDal.Getlist(x=>x.CategoryId==categoryId).ToList());
         }
 
-        public void Update(Product product)
+        public IResult Update(Product product)
         {
             _productDal.Update(product);
+            return new SuccessResult(message:ProductMessages.UptatedProduct,succsess:true);
         }
     }
 }

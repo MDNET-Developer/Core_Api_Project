@@ -15,3 +15,6 @@ D:\MyProjects\NEW\CoreApiDemo\DataAccsess\bin\Debug\net5.0\Entities.dll
 D:\MyProjects\NEW\CoreApiDemo\DataAccsess\bin\Debug\net5.0\Core.pdb
 D:\MyProjects\NEW\CoreApiDemo\DataAccsess\bin\Debug\net5.0\Entities.pdb
 D:\MyProjects\NEW\CoreApiDemo\DataAccsess\obj\Debug\net5.0\DataAccsess.csproj.CopyComplete
+D:\MyProjects\NEW\CoreApiDemo\DataAccsess\bin\Debug\net5.0\DataAccsess.runtimeconfig.json
+D:\MyProjects\NEW\CoreApiDemo\DataAccsess\bin\Debug\net5.0\DataAccsess.runtimeconfig.dev.json
+D:\MyProjects\NEW\CoreApiDemo\DataAccsess\obj\Debug\net5.0\DataAccsess.genruntimeconfig.cache

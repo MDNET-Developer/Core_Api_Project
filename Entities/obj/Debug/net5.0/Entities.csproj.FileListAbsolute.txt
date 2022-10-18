@@ -13,3 +13,6 @@ D:\MyProjects\NEW\CoreApiDemo\Entities\obj\Debug\net5.0\ref\Entities.dll
 D:\MyProjects\NEW\CoreApiDemo\Entities\bin\Debug\net5.0\Core.dll
 D:\MyProjects\NEW\CoreApiDemo\Entities\bin\Debug\net5.0\Core.pdb
 D:\MyProjects\NEW\CoreApiDemo\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
+D:\MyProjects\NEW\CoreApiDemo\Entities\bin\Debug\net5.0\Entities.runtimeconfig.json
+D:\MyProjects\NEW\CoreApiDemo\Entities\bin\Debug\net5.0\Entities.runtimeconfig.dev.json
+D:\MyProjects\NEW\CoreApiDemo\Entities\obj\Debug\net5.0\Entities.genruntimeconfig.cache
